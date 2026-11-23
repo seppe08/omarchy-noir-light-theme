@@ -1,0 +1,93 @@
+# Main background
+theme[main_bg]="#f4f5f7"
+
+# Main text color
+theme[main_fg]="#09090b"
+
+# Title color for boxes
+theme[title]="#09090b"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#09090b"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#d4d4d8"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#09090b"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#71717a"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#27272a"
+
+# Background color of the percentage meters
+theme[meter_bg]="#e2e5e9"
+
+# Misc colors for processes box
+theme[proc_misc]="#27272a"
+
+# CPU, Memory, Network, Proc box outline colors (crisp black & charcoal)
+theme[cpu_box]="#09090b"
+theme[mem_box]="#18181b"
+theme[net_box]="#27272a"
+theme[proc_box]="#09090b"
+
+# Box divider line and small boxes line color
+theme[div_line]="#d4d4d8"
+
+# Temperature graph color (Pine -> Umber -> Oxblood)
+theme[temp_start]="#14532d"
+theme[temp_mid]="#78350f"
+theme[temp_end]="#7f1d1d"
+
+# CPU graph colors (Steel Petrol -> Prussian Blue -> Damson)
+theme[cpu_start]="#134e4a"
+theme[cpu_mid]="#1e3a8a"
+theme[cpu_end]="#4c0519"
+
+# Mem/Disk free meter
+theme[free_start]="#4c0519"
+theme[free_mid]="#1e3a8a"
+theme[free_end]="#134e4a"
+
+# Mem/Disk cached meter
+theme[cached_start]="#1e3a8a"
+theme[cached_mid]="#134e4a"
+theme[cached_end]="#4c0519"
+
+# Mem/Disk available meter
+theme[available_start]="#78350f"
+theme[available_mid]="#7f1d1d"
+theme[available_end]="#7f1d1d"
+
+# Mem/Disk used meter
+theme[used_start]="#14532d"
+theme[used_mid]="#134e4a"
+theme[used_end]="#1e3a8a"
+
+# Download graph colors
+theme[download_start]="#78350f"
+theme[download_mid]="#7f1d1d"
+theme[download_end]="#7f1d1d"
+
+# Upload graph colors
+theme[upload_start]="#14532d"
+theme[upload_mid]="#134e4a"
+theme[upload_end]="#1e3a8a"
+
+# Process box color gradient
+theme[process_start]="#134e4a"
+theme[process_mid]="#1e3a8a"
+theme[process_end]="#4c0519"
+
+# Graph gradient colors
+theme[gradient_color_0]="#f4f5f7"
+theme[gradient_color_1]="#ffffff"
+theme[gradient_color_2]="#d4d4d8"
+theme[gradient_color_3]="#71717a"
+theme[gradient_color_4]="#52525b"
+theme[gradient_color_5]="#27272a"
+theme[gradient_color_6]="#18181b"
+theme[gradient_color_7]="#09090b"

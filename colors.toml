@@ -1,0 +1,37 @@
+mode = "light"
+
+accent = "#09090b"
+selection = "#d4d4d8"
+selection_foreground = "#09090b"
+selection_background = "#d4d4d8"
+muted = "#71717a"
+
+background = "#f4f5f7"
+dark_background = "#eaedf1"
+darker_background = "#dfe3e8"
+lighter_background = "#ffffff"
+
+foreground = "#09090b"
+dark_foreground = "#3f3f46"
+light_foreground = "#18181b"
+bright_foreground = "#000000"
+
+# Architectural Noir Inks (Deep, saturated, high-contrast pigments - no pastel rainbow)
+red = "#7f1d1d"
+orange = "#7c2d12"
+yellow = "#78350f"
+green = "#14532d"
+cyan = "#134e4a"
+blue = "#1e3a8a"
+magenta = "#4c0519"
+brown = "#451a03"
+
+bright_red = "#991b1b"
+bright_yellow = "#92400e"
+bright_green = "#166534"
+bright_cyan = "#0e7490"
+bright_blue = "#1d4ed8"
+bright_magenta = "#581c87"
+
+hyprland_active_border = "#09090b"
+hyprland_inactive_border = "rgba(09090b33)"
